@@ -1,16 +1,17 @@
-## Hi there 👋
+# 👋 Hi there! I'm Francisco M. Maireles Mesa
+Junior Software Developer with a background in Web Aplications Development and a strong passion for building applications, solving problems, and continuous learning.
 
-<!--
-**Franmaimes-dev/Franmaimes-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 **Technologies I'm working with:**
+* Frontend: HTML, CSS, JavaScript, React(learning).
+* Backend: Python, Java.
+* Databases: MySQL, MogoDB.
+* Tools: Git, GitHub, VS Code.
 
-Here are some ideas to get you started:
+🎯 **Lo que estoy buscando:**
+A junior software developer role where I can grow, take on new challenges, and contribute to innovative projects within a collaborative team.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌱
+
+📫 Cómo contactarme:
+* [Linkedin](https://www.linkedin.com/in/francisco-maireles-mesa/)
+* Email: mairelesmesa@gmail.com
