@@ -11,7 +11,7 @@ Junior Software Developer with a background in Web Aplications Development and a
 
 🎯 **What I’m looking for:**
 
-A junior software developer role where I can grow, take on new challenges, and contribute to innovative projects within a collaborative team.
+A junior software developer internship where I can grow, take on new challenges, and contribute to innovative projects within a collaborative team.
 
 🌐 Languages:
 
